@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">GetLocationGPS</string>
+
+    <string name="latitude">Latitude</string>
+    <string name="no_text">No Text</string>
+    <string name="longitude">Longitude</string>
+    <string name="city">City</string>
 </resources>
